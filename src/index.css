@@ -1,5 +1,10 @@
+*{
+  background-color: rgb(11, 5, 34);
+}
+
 body {
   margin: 0;
+  
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +15,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.Get-start{
+  border-radius: 20px;
+  background-color: rgb(45, 192, 197);
+  margin-top: 20px;
+  
+}
+InfoSection{
+  margin-top: 100px;
+  padding-top: 50px;
+}
+.footer{
+  background-color: rgb(126, 126, 223);
+  margin-top: 50px;
+  padding-top: 50px;
+
 }
